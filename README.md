@@ -53,3 +53,13 @@
 </div>
 
 <hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=dorcasgold&theme=tokyonight&border_radius=6.5)](https://git.io/streak-stats)
+</div>
+
+<br/><br/>
+
+<hr/>
