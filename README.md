@@ -58,7 +58,7 @@
 <br>
 <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dorcasgold&theme=tokyonight&border_radius=6.5" alt="GitHub Streak" /></a>
-![dorcasgold's Stats](https://github-readme-stats.vercel.app/api?username=dorcasgold&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)     
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dorcasgold&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />   
 </div>
 
 <br/><br/>
