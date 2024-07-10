@@ -4,19 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dorcas;+a+front-end-web-developer" />
 </h1>
 
-<h3 align="center">A Lagos-based creative frontend developer.🧠</h3>
-
 <br/>
 
 <div align="center">
     
-❤ I'm really into bringing **digital stuff to life**✨🧨
-
-🦾🧠 Making it both **techie and visually awesome**✨🎇
-
-❤❤ My joy is in **creating, learning, and exploring** 🛹
-
-**If you need some freelance help, feel free to shoot me a message!**
+👨‍💻 Self-taught frontend web developer | React.js enthusiast | Constantly learning and building projects to grow in the tech industry | Open to collaboration and new opportunities
 
 </div>
 
