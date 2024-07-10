@@ -8,7 +8,7 @@
 
 <div align="center">
     
-👨‍💻 Self-taught frontend web developer | React.js enthusiast | Constantly learning and building projects to grow in the tech industry | Open to collaboration and new opportunities
+frontend web developer | React.js enthusiast | Constantly learning and building projects to grow in the tech industry | Open to collaboration and new opportunities
 
 </div>
 
