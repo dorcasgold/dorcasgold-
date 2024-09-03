@@ -29,7 +29,7 @@ frontend web developer | React.js enthusiast | Constantly learning and building 
 <h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,javascript,vscode,git,github,figma," />
+    <img src="https://skillicons.dev/icons?i=html,css,react,NextJS,bootstrap,javascript,vscode,git,github,figma," />
     <br>
 </div>
 
